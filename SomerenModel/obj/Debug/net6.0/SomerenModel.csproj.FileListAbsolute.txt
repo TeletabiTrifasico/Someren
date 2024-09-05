@@ -1,0 +1,60 @@
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenModel\bin\Debug\net6.0\SomerenModel.deps.json
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenModel\bin\Debug\net6.0\SomerenModel.dll
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenModel\bin\Debug\net6.0\SomerenModel.pdb
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenModel\obj\Debug\net6.0\SomerenModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfoInputs.cache
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfo.cs
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenModel\obj\Debug\net6.0\SomerenModel.dll
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenModel\obj\Debug\net6.0\refint\SomerenModel.dll
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenModel\obj\Debug\net6.0\SomerenModel.pdb
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenModel\obj\Debug\net6.0\ref\SomerenModel.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenModel\bin\Debug\net6.0\SomerenModel.deps.json
+C:\Users\hugoj\source\repos\Someren Final\SomerenModel\bin\Debug\net6.0\SomerenModel.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenModel\bin\Debug\net6.0\SomerenModel.pdb
+C:\Users\hugoj\source\repos\Someren Final\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\hugoj\source\repos\Someren Final\SomerenModel\obj\Debug\net6.0\SomerenModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\source\repos\Someren Final\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfoInputs.cache
+C:\Users\hugoj\source\repos\Someren Final\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfo.cs
+C:\Users\hugoj\source\repos\Someren Final\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\source\repos\Someren Final\SomerenModel\obj\Debug\net6.0\SomerenModel.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenModel\obj\Debug\net6.0\refint\SomerenModel.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenModel\obj\Debug\net6.0\SomerenModel.pdb
+C:\Users\hugoj\source\repos\Someren Final\SomerenModel\obj\Debug\net6.0\ref\SomerenModel.dll
+\\Mac\Home\Downloads\Someren\SomerenModel\bin\Debug\net6.0\SomerenModel.deps.json
+\\Mac\Home\Downloads\Someren\SomerenModel\bin\Debug\net6.0\SomerenModel.dll
+\\Mac\Home\Downloads\Someren\SomerenModel\bin\Debug\net6.0\SomerenModel.pdb
+\\Mac\Home\Downloads\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfo.cs
+\\Mac\Home\Downloads\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.dll
+\\Mac\Home\Downloads\Someren\SomerenModel\obj\Debug\net6.0\refint\SomerenModel.dll
+\\Mac\Home\Downloads\Someren\SomerenModel\obj\Debug\net6.0\SomerenModel.pdb
+\\Mac\Home\Downloads\Someren\SomerenModel\obj\Debug\net6.0\ref\SomerenModel.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenModel\bin\Debug\net6.0\SomerenModel.deps.json
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenModel\bin\Debug\net6.0\SomerenModel.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenModel\bin\Debug\net6.0\SomerenModel.pdb
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfo.cs
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\refint\SomerenModel.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.pdb
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\ref\SomerenModel.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenModel\bin\Debug\net6.0\SomerenModel.deps.json
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenModel\bin\Debug\net6.0\SomerenModel.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenModel\bin\Debug\net6.0\SomerenModel.pdb
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfoInputs.cache
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.AssemblyInfo.cs
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\refint\SomerenModel.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\SomerenModel.pdb
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenModel\obj\Debug\net6.0\ref\SomerenModel.dll
