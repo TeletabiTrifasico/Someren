@@ -1,0 +1,75 @@
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\bin\Debug\net6.0\SomerenDAL.deps.json
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\bin\Debug\net6.0\SomerenDAL.dll
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\bin\Debug\net6.0\SomerenDAL.pdb
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\bin\Debug\net6.0\SomerenModel.dll
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\bin\Debug\net6.0\SomerenModel.pdb
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.AssemblyReference.cache
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\obj\Debug\net6.0\SomerenDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\obj\Debug\net6.0\SomerenDAL.AssemblyInfoInputs.cache
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\obj\Debug\net6.0\SomerenDAL.AssemblyInfo.cs
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.Up2Date
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\obj\Debug\net6.0\SomerenDAL.dll
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\obj\Debug\net6.0\refint\SomerenDAL.dll
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\obj\Debug\net6.0\SomerenDAL.pdb
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenDAL\obj\Debug\net6.0\ref\SomerenDAL.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\bin\Debug\net6.0\SomerenDAL.deps.json
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\bin\Debug\net6.0\SomerenDAL.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\bin\Debug\net6.0\SomerenDAL.pdb
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\bin\Debug\net6.0\SomerenModel.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\bin\Debug\net6.0\SomerenModel.pdb
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.AssemblyReference.cache
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\obj\Debug\net6.0\SomerenDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\obj\Debug\net6.0\SomerenDAL.AssemblyInfoInputs.cache
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\obj\Debug\net6.0\SomerenDAL.AssemblyInfo.cs
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.Up2Date
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\obj\Debug\net6.0\SomerenDAL.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\obj\Debug\net6.0\refint\SomerenDAL.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\obj\Debug\net6.0\SomerenDAL.pdb
+C:\Users\hugoj\source\repos\Someren Final\SomerenDAL\obj\Debug\net6.0\ref\SomerenDAL.dll
+\\Mac\Home\Downloads\Someren\SomerenDAL\bin\Debug\net6.0\SomerenDAL.deps.json
+\\Mac\Home\Downloads\Someren\SomerenDAL\bin\Debug\net6.0\SomerenDAL.dll
+\\Mac\Home\Downloads\Someren\SomerenDAL\bin\Debug\net6.0\SomerenDAL.pdb
+\\Mac\Home\Downloads\Someren\SomerenDAL\bin\Debug\net6.0\SomerenModel.dll
+\\Mac\Home\Downloads\Someren\SomerenDAL\bin\Debug\net6.0\SomerenModel.pdb
+\\Mac\Home\Downloads\Someren\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Someren\SomerenDAL\obj\Debug\net6.0\SomerenDAL.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Someren\SomerenDAL\obj\Debug\net6.0\SomerenDAL.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Someren\SomerenDAL\obj\Debug\net6.0\SomerenDAL.AssemblyInfo.cs
+\\Mac\Home\Downloads\Someren\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Someren\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.Up2Date
+\\Mac\Home\Downloads\Someren\SomerenDAL\obj\Debug\net6.0\SomerenDAL.dll
+\\Mac\Home\Downloads\Someren\SomerenDAL\obj\Debug\net6.0\refint\SomerenDAL.dll
+\\Mac\Home\Downloads\Someren\SomerenDAL\obj\Debug\net6.0\SomerenDAL.pdb
+\\Mac\Home\Downloads\Someren\SomerenDAL\obj\Debug\net6.0\ref\SomerenDAL.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\bin\Debug\net6.0\SomerenDAL.deps.json
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\bin\Debug\net6.0\SomerenDAL.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\bin\Debug\net6.0\SomerenDAL.pdb
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\bin\Debug\net6.0\SomerenModel.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\bin\Debug\net6.0\SomerenModel.pdb
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.AssemblyInfo.cs
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.Up2Date
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\refint\SomerenDAL.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.pdb
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\ref\SomerenDAL.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\bin\Debug\net6.0\SomerenDAL.deps.json
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\bin\Debug\net6.0\SomerenDAL.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\bin\Debug\net6.0\SomerenDAL.pdb
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\bin\Debug\net6.0\SomerenModel.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\bin\Debug\net6.0\SomerenModel.pdb
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.AssemblyReference.cache
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.AssemblyInfoInputs.cache
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.AssemblyInfo.cs
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.csproj.Up2Date
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\refint\SomerenDAL.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\SomerenDAL.pdb
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenDAL\obj\Debug\net6.0\ref\SomerenDAL.dll
