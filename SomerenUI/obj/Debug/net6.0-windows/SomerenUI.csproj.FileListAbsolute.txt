@@ -1,0 +1,169 @@
+C:\Users\hugoj\Documents\SomerenDatabaseProject-master\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.AssemblyReference.cache
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.AssemblyReference.cache
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AddLecturerForm.resources
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AddStudentForm.resources
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AddSupervisorForm.resources
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.DrinkAddForm.resources
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.DrinkUpdateForm.resources
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.Properties.Resources.resources
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.SomerenUI.resources
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.UpdateLecturerForm.resources
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.UpdateStudentForm.resources
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.GenerateResource.cache
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AssemblyInfoInputs.cache
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AssemblyInfo.cs
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.exe
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.dll.config
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.deps.json
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.runtimeconfig.json
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.pdb
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\SomerenDAL.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\SomerenModel.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\SomerenService.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\SomerenModel.pdb
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\SomerenService.pdb
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\bin\Debug\net6.0-windows\SomerenDAL.pdb
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.Up2Date
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\refint\SomerenUI.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.pdb
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.genruntimeconfig.cache
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\ref\SomerenUI.dll
+C:\Users\hugoj\source\repos\Someren Final\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.DeleteConfirmationForm.resources
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.exe
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.dll.config
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.deps.json
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.runtimeconfig.json
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.pdb
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\SomerenDAL.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\SomerenModel.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\SomerenService.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\SomerenModel.pdb
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\SomerenService.pdb
+\\Mac\Home\Downloads\Someren\SomerenUI\bin\Debug\net6.0-windows\SomerenDAL.pdb
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AddLecturerForm.resources
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AddStudentForm.resources
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AddSupervisorForm.resources
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.DeleteConfirmationForm.resources
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.DrinkAddForm.resources
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.DrinkUpdateForm.resources
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.Properties.Resources.resources
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.SomerenUI.resources
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.UpdateLecturerForm.resources
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.UpdateStudentForm.resources
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AssemblyInfo.cs
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.Up2Date
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\refint\SomerenUI.dll
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.pdb
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.genruntimeconfig.cache
+\\Mac\Home\Downloads\Someren\SomerenUI\obj\Debug\net6.0-windows\ref\SomerenUI.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.exe
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.dll.config
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.deps.json
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.runtimeconfig.json
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.pdb
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenDAL.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenModel.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenService.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenModel.pdb
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenService.pdb
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenDAL.pdb
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AddLecturerForm.resources
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AddStudentForm.resources
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AddSupervisorForm.resources
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.DeleteConfirmationForm.resources
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.DrinkAddForm.resources
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.DrinkUpdateForm.resources
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.Properties.Resources.resources
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.SomerenUI.resources
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.UpdateLecturerForm.resources
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.UpdateStudentForm.resources
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AssemblyInfo.cs
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.Up2Date
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\refint\SomerenUI.dll
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.pdb
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.genruntimeconfig.cache
+\\Mac\Home\Downloads\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\ref\SomerenUI.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.AssemblyReference.cache
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\refint\SomerenUI.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.pdb
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.exe
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.dll.config
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.deps.json
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.runtimeconfig.json
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenUI.pdb
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenDAL.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenModel.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenService.dll
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenModel.pdb
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenService.pdb
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\bin\Debug\net6.0-windows\SomerenDAL.pdb
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AddLecturerForm.resources
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AddStudentForm.resources
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AddSupervisorForm.resources
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.DeleteConfirmationForm.resources
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.DrinkAddForm.resources
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.DrinkUpdateForm.resources
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.Properties.Resources.resources
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.SomerenUI.resources
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.UpdateLecturerForm.resources
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.UpdateStudentForm.resources
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.GenerateResource.cache
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AssemblyInfoInputs.cache
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.AssemblyInfo.cs
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.csproj.Up2Date
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\SomerenUI.genruntimeconfig.cache
+C:\Users\hugoj\Documents\Someren\Someren-updated-23 May\SomerenUI\obj\Debug\net6.0-windows\ref\SomerenUI.dll
